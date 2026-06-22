@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    color: #1f4e79;
+}
+
+.dashboard{
+    padding: 15px;
+    border: 1px solid #ccc;
+}
