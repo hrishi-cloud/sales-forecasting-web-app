@@ -1,0 +1,34 @@
+# Sales Forecasting & Business Analytics Web Application
+
+## Overview
+
+This project is a web-based sales analytics application developed to help businesses analyze historical sales performance and forecast future sales trends. The application provides interactive dashboards, business insights, and forecasting capabilities to support data-driven decision-making.
+
+## Features
+
+* Sales Performance Dashboard
+* Revenue Analysis
+* Product-wise Sales Analysis
+* Region-wise Sales Analysis
+* Monthly Sales Trends
+* Sales Forecasting
+* Business Insights Generation
+
+## Technologies Used
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* Excel
+
+## Business Benefits
+
+* Improved visibility into sales performance
+* Faster reporting and analysis
+* Data-driven business planning
+* Identification of sales trends and growth opportunities
+
+## Project Outcome
+
+Analyzed over 1,500+ sales records and automated sales reporting processes, reducing manual analysis effort by approximately 35%.
